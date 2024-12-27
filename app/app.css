@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.action-bar {
+  background-color: #2563eb;
+  color: white;
+}
+
+.tab-view {
+  selected-tab-text-color: #2563eb;
+}
+
+.progress {
+  background-color: #e5e7eb;
+  color: #2563eb;
+}
+
+.list-group-item {
+  border-bottom-width: 1px;
+  border-color: #e5e7eb;
+}
